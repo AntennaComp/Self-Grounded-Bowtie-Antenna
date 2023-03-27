@@ -1,0 +1,86 @@
+solid Self-Grounded Bow-Tie/BuildingBlock:waterpad
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 3.400000e+01 2.700000e+02 5.465680e+01
+      vertex 3.400000e+01 2.500000e+02 -5.466185e+01
+      vertex 3.400000e+01 2.700000e+02 -5.466185e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 3.400000e+01 2.500000e+02 5.465680e+01
+      vertex 3.400000e+01 2.500000e+02 -5.466185e+01
+      vertex 3.400000e+01 2.700000e+02 5.465680e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -3.400000e+01 2.700000e+02 5.465680e+01
+      vertex 3.400000e+01 2.700000e+02 -5.466185e+01
+      vertex -3.400000e+01 2.700000e+02 -5.466185e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 3.400000e+01 2.700000e+02 5.465680e+01
+      vertex 3.400000e+01 2.700000e+02 -5.466185e+01
+      vertex -3.400000e+01 2.700000e+02 5.465680e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -3.400000e+01 2.500000e+02 5.465680e+01
+      vertex -3.400000e+01 2.700000e+02 -5.466185e+01
+      vertex -3.400000e+01 2.500000e+02 -5.466185e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -3.400000e+01 2.700000e+02 5.465680e+01
+      vertex -3.400000e+01 2.700000e+02 -5.466185e+01
+      vertex -3.400000e+01 2.500000e+02 5.465680e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 3.400000e+01 2.500000e+02 5.465680e+01
+      vertex -3.400000e+01 2.500000e+02 -5.466185e+01
+      vertex 3.400000e+01 2.500000e+02 -5.466185e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -3.400000e+01 2.500000e+02 5.465680e+01
+      vertex -3.400000e+01 2.500000e+02 -5.466185e+01
+      vertex 3.400000e+01 2.500000e+02 5.465680e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 3.400000e+01 2.700000e+02 -5.466185e+01
+      vertex -3.400000e+01 2.500000e+02 -5.466185e+01
+      vertex -3.400000e+01 2.700000e+02 -5.466185e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 3.400000e+01 2.500000e+02 -5.466185e+01
+      vertex -3.400000e+01 2.500000e+02 -5.466185e+01
+      vertex 3.400000e+01 2.700000e+02 -5.466185e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 3.400000e+01 2.500000e+02 5.465680e+01
+      vertex -3.400000e+01 2.700000e+02 5.465680e+01
+      vertex -3.400000e+01 2.500000e+02 5.465680e+01
+    endloop
+  endfacet
+  facet normal -4.666246e+04 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 3.400000e+01 2.700000e+02 5.465680e+01
+      vertex -3.400000e+01 2.700000e+02 5.465680e+01
+      vertex 3.400000e+01 2.500000e+02 5.465680e+01
+    endloop
+  endfacet
+endsolid Self-Grounded Bow-Tie/BuildingBlock:waterpad
